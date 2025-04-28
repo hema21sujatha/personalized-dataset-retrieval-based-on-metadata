@@ -1,0 +1,211 @@
+Dataset Name,Size,Task Type,Citations,Diversity,Year,Source
+CIFAR-100,60K images,Image Classification,10K+,Medium,2009,OpenML
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2017,PapersWithCode
+MIMIC-III,40K ICU records,Medical AI,8K+,Medium,2018,OpenML
+LibriSpeech,1000 hours,Speech Recognition,8K+,Medium,2018,Hugging Face
+CheXpert,224K chest X-rays,Medical AI,3K+,Medium,2023,OpenML
+Open Images,9M images,Object Classification,40K+,High,2016,Kaggle
+Uber Movement,50M records,Traffic Prediction,2K+,Medium,2020,OpenML
+Common Crawl,10B+ text samples,NLP (Web Crawl),5K+,High,2013,Hugging Face
+GLUE,1M text samples,NLP Benchmarking,10K+,High,2021,PapersWithCode
+ADE20K,20K images,Image Segmentation,5K+,High,2021,PapersWithCode
+Common Crawl,10B+ text samples,NLP (Web Crawl),5K+,High,2011,Hugging Face
+CheXpert,224K chest X-rays,Medical AI,3K+,Medium,2020,OpenML
+CIFAR-100,60K images,Image Classification,10K+,Medium,2011,OpenML
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2019,PapersWithCode
+MIMIC-III,40K ICU records,Medical AI,8K+,Medium,2020,OpenML
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2016,PapersWithCode
+ADE20K,20K images,Image Segmentation,5K+,High,2018,PapersWithCode
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2018,PapersWithCode
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2019,PapersWithCode
+Open Images,9M images,Object Classification,40K+,High,2020,Kaggle
+Open Images,9M images,Object Classification,40K+,High,2016,Kaggle
+CIFAR-10,60K images,Image Classification,30K+,Medium,2010,OpenML
+Common Crawl,10B+ text samples,NLP (Web Crawl),5K+,High,2013,Hugging Face
+ImageNet,14M images,Image Classification,50K+,High,2015,PapersWithCode
+DeepFashion,800K images,Fashion Recognition,6K+,Medium,2020,PapersWithCode
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2016,PapersWithCode
+CamVid ++,10K images,Autonomous Driving,2K+,Medium,2009,Kaggle
+LibriSpeech revised,1000 hours,Speech Recognition,8K+,Medium,2017,Hugging Face
+Uber Movement ++,50M records,Traffic Prediction,2K+,Medium,2022,OpenML
+SQuAD revised,100K Q&A pairs,Question Answering,15K+,High,2020,PapersWithCode
+MNIST v2,70K images,Handwritten Classification,50K+,Low,1998,OpenML
+CIFAR-100 extended,60K images,Image Classification,10K+,Medium,2010,OpenML
+HumanEval ++,164 tasks,Code Generation,2K+,High,2023,Hugging Face
+MNIST extended,70K images,Handwritten Classification,50K+,Low,2001,OpenML
+CIFAR-100 revised,60K images,Image Classification,10K+,Medium,2013,OpenML
+GLUE v2,1M text samples,NLP Benchmarking,10K+,High,2018,PapersWithCode
+VoxCeleb2 2025,1M speech samples,Speaker Recognition,6K+,High,2019,Hugging Face
+CIFAR-10 v2,60K images,Image Classification,30K+,Medium,2011,OpenML
+ImageNet 2025,14M images,Image Classification,50K+,High,2015,PapersWithCode
+HumanEval lite,164 tasks,Code Generation,2K+,High,2025,Hugging Face
+MNIST mod,70K images,Handwritten Classification,50K+,Low,1998,OpenML
+PAWS mod,100K text pairs,Paraphrase Detection,2.5K+,High,2020,Hugging Face
+MNIST extended,70K images,Handwritten Classification,50K+,Low,2000,OpenML
+WikiText-103 extended,103M words,Language Modeling,3K+,High,2020,Hugging Face
+CIFAR-10 ++,60K images,Image Classification,30K+,Medium,2013,OpenML
+PAWS revised,100K text pairs,Paraphrase Detection,2.5K+,High,2019,Hugging Face
+CheXpert lite,224K chest X-rays,Medical AI,3K+,Medium,2020,OpenML
+SQuAD revised,100K Q&A pairs,Question Answering,15K+,High,2018,PapersWithCode
+TIMIT ++,4.3 hours speech,Speech Recognition,1K+,Medium,1996,OpenML
+OpenWebText mod,40GB text,Language Modeling,7K+,High,2023,Hugging Face
+Common Crawl lite,10B+ text samples,NLP (Web Crawl),5K+,High,2011,Hugging Face
+OpenWebText mod,40GB text,Language Modeling,7K+,High,2020,Hugging Face
+Common Crawl extended,10B+ text samples,NLP (Web Crawl),5K+,High,2013,Hugging Face
+MNIST v2,70K images,Handwritten Classification,50K+,Low,2001,OpenML
+SQuAD lite,100K Q&A pairs,Question Answering,15K+,High,2020,PapersWithCode
+OpenWebText 2025,40GB text,Language Modeling,7K+,High,2019,Hugging Face
+DeepFashion extended,800K images,Fashion Recognition,6K+,Medium,2017,PapersWithCode
+CIFAR-100 mod,60K images,Image Classification,10K+,Medium,2011,OpenML
+ImageNet lite,14M images,Image Classification,50K+,High,2015,PapersWithCode
+HumanEval lite,164 tasks,Code Generation,2K+,High,2025,Hugging Face
+WikiText-103 extended,103M words,Language Modeling,3K+,High,2017,Hugging Face
+Uber Movement extended,50M records,Traffic Prediction,2K+,Medium,2020,OpenML
+Fashion-MNIST revised,70K images,Image Classification,10K+,Medium,2019,OpenML
+MNIST ++,70K images,Handwritten Classification,50K+,Low,2001,OpenML
+WikiText-103 revised,103M words,Language Modeling,3K+,High,2021,Hugging Face
+VoxCeleb2 mod,1M speech samples,Speaker Recognition,6K+,High,2018,Hugging Face
+Fashion-MNIST ++,70K images,Image Classification,10K+,Medium,2018,OpenML
+SQuAD v2,100K Q&A pairs,Question Answering,15K+,High,2018,PapersWithCode
+CamVid lite,10K images,Autonomous Driving,2K+,Medium,2011,Kaggle
+WikiText-103 ++,103M words,Language Modeling,3K+,High,2021,Hugging Face
+SQuAD lite,100K Q&A pairs,Question Answering,15K+,High,2016,PapersWithCode
+VoxCeleb2 2025,1M speech samples,Speaker Recognition,6K+,High,2019,Hugging Face
+LibriSpeech mod,1000 hours,Speech Recognition,8K+,Medium,2017,Hugging Face
+VoxCeleb2 ++,1M speech samples,Speaker Recognition,6K+,High,2021,Hugging Face
+MovieLens 25M ++,25M ratings,Recommendation Systems,10K+,High,2019,OpenML
+LibriSpeech 2025,1000 hours,Speech Recognition,8K+,Medium,2015,Hugging Face
+WikiText-103 mod,103M words,Language Modeling,3K+,High,2018,Hugging Face
+TIMIT revised,4.3 hours speech,Speech Recognition,1K+,Medium,1995,OpenML
+CheXpert lite,224K chest X-rays,Medical AI,3K+,Medium,2022,OpenML
+GLUE 2025,1M text samples,NLP Benchmarking,10K+,High,2022,PapersWithCode
+MIMIC-III revised,40K ICU records,Medical AI,8K+,Medium,2016,OpenML
+Fashion-MNIST 2025,70K images,Image Classification,10K+,Medium,2018,OpenML
+OpenWebText lite,40GB text,Language Modeling,7K+,High,2021,Hugging Face
+TIMIT mod,4.3 hours speech,Speech Recognition,1K+,Medium,1996,OpenML
+VoxCeleb2 extended,1M speech samples,Speaker Recognition,6K+,High,2022,Hugging Face
+Cityscapes extended,25K images,Image Segmentation,9K+,Medium,2016,PapersWithCode
+WikiText-103 revised,103M words,Language Modeling,3K+,High,2018,Hugging Face
+Fashion-MNIST extended,70K images,Image Classification,10K+,Medium,2019,OpenML
+MIMIC-III 2025,40K ICU records,Medical AI,8K+,Medium,2019,OpenML
+MNIST extended,70K images,Handwritten Classification,50K+,Low,2002,OpenML
+ImageNet extended,14M images,Image Classification,50K+,High,2012,PapersWithCode
+Uber Movement v2,50M records,Traffic Prediction,2K+,Medium,2020,OpenML
+ADE20K ++,20K images,Image Segmentation,5K+,High,2019,PapersWithCode
+MIMIC-III lite,40K ICU records,Medical AI,8K+,Medium,2019,OpenML
+LibriSpeech v2,1000 hours,Speech Recognition,8K+,Medium,2019,Hugging Face
+Open Images mod,9M images,Object Classification,40K+,High,2016,Kaggle
+CheXpert mod,224K chest X-rays,Medical AI,3K+,Medium,2020,OpenML
+MNIST 2025,70K images,Handwritten Classification,50K+,Low,2000,OpenML
+Common Crawl v2,10B+ text samples,NLP (Web Crawl),5K+,High,2014,Hugging Face
+GLUE extended,1M text samples,NLP Benchmarking,10K+,High,2022,PapersWithCode
+Uber Movement mod,50M records,Traffic Prediction,2K+,Medium,2019,OpenML
+COCO v2,330K images,Object Detection,20K+,Medium,2016,Kaggle
+CIFAR-100 revised,60K images,Image Classification,10K+,Medium,2011,OpenML
+CamVid revised,10K images,Autonomous Driving,2K+,Medium,2011,Kaggle
+MNIST ++,70K images,Handwritten Classification,50K+,Low,2002,OpenML
+TIMIT extended,4.3 hours speech,Speech Recognition,1K+,Medium,1993,OpenML
+Cityscapes v2,25K images,Image Segmentation,9K+,Medium,2017,PapersWithCode
+Uber Movement ++,50M records,Traffic Prediction,2K+,Medium,2021,OpenML
+CamVid lite,10K images,Autonomous Driving,2K+,Medium,2011,Kaggle
+DeepFashion lite,800K images,Fashion Recognition,6K+,Medium,2020,PapersWithCode
+PAWS 2025,100K text pairs,Paraphrase Detection,2.5K+,High,2019,Hugging Face
+OpenWebText v2,40GB text,Language Modeling,7K+,High,2020,Hugging Face
+Cityscapes revised,25K images,Image Segmentation,9K+,Medium,2018,PapersWithCode
+SQuAD revised,100K Q&A pairs,Question Answering,15K+,High,2019,PapersWithCode
+VoxCeleb2 v2,1M speech samples,Speaker Recognition,6K+,High,2022,Hugging Face
+LibriSpeech 2025,1000 hours,Speech Recognition,8K+,Medium,2015,Hugging Face
+ADE20K v2,20K images,Image Segmentation,5K+,High,2018,PapersWithCode
+MIMIC-III v2,40K ICU records,Medical AI,8K+,Medium,2018,OpenML
+GLUE 2025,1M text samples,NLP Benchmarking,10K+,High,2021,PapersWithCode
+Open Images v2,9M images,Object Classification,40K+,High,2020,Kaggle
+CamVid extended,10K images,Autonomous Driving,2K+,Medium,2008,Kaggle
+SQuAD ++,100K Q&A pairs,Question Answering,15K+,High,2017,PapersWithCode
+Cityscapes extended,25K images,Image Segmentation,9K+,Medium,2018,PapersWithCode
+DeepFashion ++,800K images,Fashion Recognition,6K+,Medium,2019,PapersWithCode
+SQuAD extended,100K Q&A pairs,Question Answering,15K+,High,2020,PapersWithCode
+ImageNet v2,14M images,Image Classification,50K+,High,2012,PapersWithCode
+VoxCeleb2 v2,1M speech samples,Speaker Recognition,6K+,High,2019,Hugging Face
+WikiText-103 2025,103M words,Language Modeling,3K+,High,2019,Hugging Face
+SQuAD 2025,100K Q&A pairs,Question Answering,15K+,High,2019,PapersWithCode
+WikiText-103 lite,103M words,Language Modeling,3K+,High,2021,Hugging Face
+TIMIT revised,4.3 hours speech,Speech Recognition,1K+,Medium,1993,OpenML
+LibriSpeech 2025,1000 hours,Speech Recognition,8K+,Medium,2016,Hugging Face
+CamVid lite,10K images,Autonomous Driving,2K+,Medium,2010,Kaggle
+PAWS ++,100K text pairs,Paraphrase Detection,2.5K+,High,2022,Hugging Face
+LibriSpeech lite,1000 hours,Speech Recognition,8K+,Medium,2019,Hugging Face
+CIFAR-10 extended,60K images,Image Classification,30K+,Medium,2009,OpenML
+Cityscapes revised,25K images,Image Segmentation,9K+,Medium,2017,PapersWithCode
+ImageNet extended,14M images,Image Classification,50K+,High,2014,PapersWithCode
+CheXpert mod,224K chest X-rays,Medical AI,3K+,Medium,2022,OpenML
+OpenWebText lite,40GB text,Language Modeling,7K+,High,2023,Hugging Face
+MNIST ++,70K images,Handwritten Classification,50K+,Low,1998,OpenML
+Common Crawl ++,10B+ text samples,NLP (Web Crawl),5K+,High,2012,Hugging Face
+MIMIC-III v2,40K ICU records,Medical AI,8K+,Medium,2018,OpenML
+SQuAD extended,100K Q&A pairs,Question Answering,15K+,High,2019,PapersWithCode
+CamVid 2025,10K images,Autonomous Driving,2K+,Medium,2012,Kaggle
+MNIST lite,70K images,Handwritten Classification,50K+,Low,1998,OpenML
+PAWS ++,100K text pairs,Paraphrase Detection,2.5K+,High,2020,Hugging Face
+NSynth v2,300K audio clips,Audio Generation,3K+,Medium,2019,Hugging Face
+HumanEval 2025,164 tasks,Code Generation,2K+,High,2024,Hugging Face
+Open Images 2025,9M images,Object Classification,40K+,High,2020,Kaggle
+CamVid lite,10K images,Autonomous Driving,2K+,Medium,2008,Kaggle
+HumanEval v2,164 tasks,Code Generation,2K+,High,2022,Hugging Face
+Fashion-MNIST 2025,70K images,Image Classification,10K+,Medium,2019,OpenML
+NSynth extended,300K audio clips,Audio Generation,3K+,Medium,2020,Hugging Face
+WikiText-103 revised,103M words,Language Modeling,3K+,High,2021,Hugging Face
+TIMIT 2025,4.3 hours speech,Speech Recognition,1K+,Medium,1993,OpenML
+MNIST v2,70K images,Handwritten Classification,50K+,Low,1999,OpenML
+GLUE 2025,1M text samples,NLP Benchmarking,10K+,High,2020,PapersWithCode
+MNIST revised,70K images,Handwritten Classification,50K+,Low,2001,OpenML
+NSynth revised,300K audio clips,Audio Generation,3K+,Medium,2021,Hugging Face
+MIMIC-III mod,40K ICU records,Medical AI,8K+,Medium,2016,OpenML
+ADE20K 2025,20K images,Image Segmentation,5K+,High,2018,PapersWithCode
+OpenWebText revised,40GB text,Language Modeling,7K+,High,2021,Hugging Face
+PAWS extended,100K text pairs,Paraphrase Detection,2.5K+,High,2022,Hugging Face
+Fashion-MNIST revised,70K images,Image Classification,10K+,Medium,2021,OpenML
+DeepFashion lite,800K images,Fashion Recognition,6K+,Medium,2016,PapersWithCode
+Common Crawl extended,10B+ text samples,NLP (Web Crawl),5K+,High,2012,Hugging Face
+LibriSpeech 2025,1000 hours,Speech Recognition,8K+,Medium,2017,Hugging Face
+Open Images ++,9M images,Object Classification,40K+,High,2019,Kaggle
+WikiText-103 mod,103M words,Language Modeling,3K+,High,2021,Hugging Face
+CIFAR-100 revised,60K images,Image Classification,10K+,Medium,2009,OpenML
+CIFAR-100 lite,60K images,Image Classification,10K+,Medium,2010,OpenML
+ADE20K revised,20K images,Image Segmentation,5K+,High,2019,PapersWithCode
+SQuAD 2025,100K Q&A pairs,Question Answering,15K+,High,2019,PapersWithCode
+HumanEval lite,164 tasks,Code Generation,2K+,High,2025,Hugging Face
+CIFAR-10 mod,60K images,Image Classification,30K+,Medium,2009,OpenML
+ADE20K 2025,20K images,Image Segmentation,5K+,High,2018,PapersWithCode
+Cityscapes ++,25K images,Image Segmentation,9K+,Medium,2018,PapersWithCode
+MNIST 2025,70K images,Handwritten Classification,50K+,Low,2001,OpenML
+MIMIC-III 2025,40K ICU records,Medical AI,8K+,Medium,2020,OpenML
+PAWS ++,100K text pairs,Paraphrase Detection,2.5K+,High,2019,Hugging Face
+CheXpert v2,224K chest X-rays,Medical AI,3K+,Medium,2020,OpenML
+CamVid revised,10K images,Autonomous Driving,2K+,Medium,2010,Kaggle
+MIMIC-III revised,40K ICU records,Medical AI,8K+,Medium,2019,OpenML
+COCO v2,330K images,Object Detection,20K+,Medium,2019,Kaggle
+GLUE lite,1M text samples,NLP Benchmarking,10K+,High,2018,PapersWithCode
+Fashion-MNIST lite,70K images,Image Classification,10K+,Medium,2018,OpenML
+Open Images ++,9M images,Object Classification,40K+,High,2018,Kaggle
+MovieLens 25M ++,25M ratings,Recommendation Systems,10K+,High,2018,OpenML
+OpenWebText mod,40GB text,Language Modeling,7K+,High,2023,Hugging Face
+MIMIC-III ++,40K ICU records,Medical AI,8K+,Medium,2016,OpenML
+MNIST extended,70K images,Handwritten Classification,50K+,Low,1999,OpenML
+MovieLens 25M lite,25M ratings,Recommendation Systems,10K+,High,2017,OpenML
+ADE20K lite,20K images,Image Segmentation,5K+,High,2020,PapersWithCode
+CIFAR-10 mod,60K images,Image Classification,30K+,Medium,2013,OpenML
+VoxCeleb2 extended,1M speech samples,Speaker Recognition,6K+,High,2018,Hugging Face
+MovieLens 25M mod,25M ratings,Recommendation Systems,10K+,High,2016,OpenML
+DeepFashion 2025,800K images,Fashion Recognition,6K+,Medium,2018,PapersWithCode
+Cityscapes lite,25K images,Image Segmentation,9K+,Medium,2019,PapersWithCode
+CIFAR-10 ++,60K images,Image Classification,30K+,Medium,2013,OpenML
+Fashion-MNIST,70K images,Image Classification,10K+,Medium,2017,OpenML
+Wikitext-2,2M words,NLP,4K+,High,2017,Hugging Face
+CIFAR-10,60K images,Image Classification,30K+,Medium,2009,OpenML
+CIFAR-100,60K images,Image Classification,10K+,Medium,2009,OpenML
+VoxCeleb2,1M speech samples,Speaker Recognition,6K+,High,2018,Hugging Face
+OpenWebText,40GB text,NLP,7K+,High,2019,Hugging Face
+NSynth,300K audio clips,Audio Generation / Analysis,3K+,Medium,2017,Hugging Face
+Cityscapes,25K images,Image Segmentation,9K+,Medium,2016,PapersWithCode
+Uber Movement,50M records,Geospatial Traffic Analysis,2K+,Medium,2019,OpenML
+OpenAI HumanEval,164 coding tasks,Code Generation / AI Coding,2K+,High,2021,Hugging Face
